@@ -56,8 +56,11 @@ Using the derived of over 500 cities generated from first file, in combination w
     7. Identify surrounding hotels under the cities list within hotel_df
     8. Create a geoview map that points all the hotels location with its related information in hover columns. 
 
- 
+ ### Others
+ When exporting these data containing api keys, it is important to download .gitignore file to specify api keys files to be ignored by GIT
 
-
-
-References
+## References
+   - Show extra columns when hovering in a scatter plot with hvplot.(2020).Stack Overflow. Retrieved on 03/04/2023, from:<https://stackoverflow.com/questions/59678780/show-extra-columns-when-hovering-in-a-scatter-plot-with-hvplot>
+   - Labels.(17/03/2023).Hvplot. Retrieved on 03/04/2023, from:<https://hvplot.holoviz.org/reference/pandas/labels.html>
+   - Customization.(17/03/2023).Hvplot. Retrieved on 03/04/2023, from:<https://hvplot.holoviz.org/user_guide/Customization.html>
+   - MONASH UNIVERISTY BOOTCAMP.(2023).Module 6 Challenge. Retrieved from 30/03/2023
